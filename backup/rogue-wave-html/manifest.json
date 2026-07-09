@@ -1,0 +1,15 @@
+{
+  "source": "outputs/rogue-wave.html",
+  "restoredFile": "rogue-wave.html",
+  "bytes": 73605,
+  "base64Chars": 98140,
+  "sha256": "3B379D08D6EBEE5DDCD010CB1556421C0B65BA81AEA03F2FB4AD36AA6B844FFB",
+  "parts": [
+    { "path": "backup/rogue-wave-html/parts/rogue-wave.html.b64.part01", "chars": 6000 },
+    { "path": "backup/rogue-wave-html/parts/rogue-wave.html.b64.part02", "chars": 20000 },
+    { "path": "backup/rogue-wave-html/parts/rogue-wave.html.b64.part03", "chars": 20000 },
+    { "path": "backup/rogue-wave-html/parts/rogue-wave.html.b64.part04", "chars": 20000 },
+    { "path": "backup/rogue-wave-html/parts/rogue-wave.html.b64.part05", "chars": 20000 },
+    { "path": "backup/rogue-wave-html/parts/rogue-wave.html.b64.part06", "chars": 12140 }
+  ]
+}
